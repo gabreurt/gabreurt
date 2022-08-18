@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabreurt
-- 👀 I’m interested in Phyton, VR and Game development!
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Python, VR and Game development!
+- 🌱 I’m currently learning Python
 - 📫 Reach me: gabrieltorrespro18@gmail.com 
 
 <!---
